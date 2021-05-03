@@ -19,10 +19,7 @@ export default function Home() {
           <a href="https://github.com/jonasbina">
             My GitHub
         </a>
-        <a href = "/aboutme">
-          About me
-          </a>
-        </div>
+      
        <div className={styles.grid}>
         <a href = "/aboutme">
           About me
