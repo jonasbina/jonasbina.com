@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
-import firebase from '../firebase/initFirebase'
+// import firebase from '../firebase/initFirebase'
 
 export default function Home() {
   return (
