@@ -27,7 +27,7 @@ const firebaseConfig = {
         console.log("Firebase has been init successfully");
     }
 }
-const app = initializeApp(clientCredentials);
+const app = initializeApp(firebaseConfig);
 
 
 
