@@ -29,7 +29,13 @@ export default function Home() {
           About me
           </a>
         </div>
+        <div className={styles.grid}>
+        <a href = "/work">
+          My Work
+          </a>
+        </div>
       </main>
+      
 
      
     </div>
