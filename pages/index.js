@@ -22,11 +22,16 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://github.com/jonasbina">
             My GitHub
-        </a> 
+        </a>
         </div>
        <div className={styles.grid}>
         <a href = "/aboutme">
           About me
+          </a>
+        </div>
+<div className={styles.grid}>
+        <a href = "jonasbina.itch.io">
+          Itch.IO
           </a>
         </div>
         <div className={styles.grid}>
