@@ -30,7 +30,7 @@ export default function Home() {
           </a>
         </div>
 <div className={styles.grid}>
-        <a href = "jonasbina.itch.io">
+        <a href = "https://jonasbina.itch.io">
           Itch.IO
           </a>
         </div>
