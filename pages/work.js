@@ -4,9 +4,7 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div className={styles.container}>
-    <h1>This time I can't present any piece of my work to you here :C</h1>
-    <h1>...</h1>
-    <h4>.......</h4>
+    <h1>Maybe I didn't yet find any time to add my work here or my work is always just a piece of shit. Who knows?</h1>
     </div>
   ) 
 }
